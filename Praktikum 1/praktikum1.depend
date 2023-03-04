@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1676973830 source:d:\kuliah\semester2\alpro\praktikum\praktikum1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1677053484 source:d:\kuliah\semester2\alpro\praktikum\praktikum1\gbbl.c
+
+1677062054 source:d:\kuliah\semester2\alpro\praktikum\praktikum1\jarakglbb.c
+	<stdio.h>
+	<stdlib.h>
+
+1677062150 source:d:\kuliah\semester2\alpro\praktikum\praktikum1\jarakpbola.c
+	<stdio.h>
+	<stdlib.h>
+
+1677062273 source:d:\kuliah\semester2\alpro\praktikum\praktikum1\volbolakerct.c
+	<stdio.h>
+	<stdlib.h>
+
+1677062201 source:d:\kuliah\semester2\alpro\praktikum\praktikum1\gayasentr.c
+	<stdio.h>
+	<stdlib.h>
+
+1677062331 source:d:\kuliah\semester2\alpro\praktikum\praktikum1\luaskelllayang.c
+	<stdio.h>
+	<stdlib.h>
+
