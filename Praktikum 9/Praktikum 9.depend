@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684480374 source:d:\kuliah\semester2\alpro\praktikum\praktikum 9\latihanpraktikum.c
+
+1684514388 source:d:\kuliah\semester2\alpro\praktikum\praktikum 9\tugas.c
+	<stdio.h>
+	<stdlib.h>
+
+1684580884 source:d:\kuliah\semester2\alpro\praktikum\praktikum 9\tugassort.c
+	<stdio.h>
+	<stdlib.h>
+
